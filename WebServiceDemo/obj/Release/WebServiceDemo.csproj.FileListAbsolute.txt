@@ -1,0 +1,6 @@
+c:\users\tony\documents\visual studio 2013\Projects\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.dll.config
+c:\users\tony\documents\visual studio 2013\Projects\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.dll
+c:\users\tony\documents\visual studio 2013\Projects\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.pdb
+c:\users\tony\documents\visual studio 2013\Projects\WebServiceDemo\WebServiceDemo\obj\Release\WebServiceDemo.csprojResolveAssemblyReference.cache
+c:\users\tony\documents\visual studio 2013\Projects\WebServiceDemo\WebServiceDemo\obj\Release\WebServiceDemo.dll
+c:\users\tony\documents\visual studio 2013\Projects\WebServiceDemo\WebServiceDemo\obj\Release\WebServiceDemo.pdb

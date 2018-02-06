@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Monitors>
+  <monitor>
+    <jsmpeg>
+      <inPortNum>9091</inPortNum>
+      <outPortNum>9092</outPortNum>
+      <password>12345</password>
+    </jsmpeg>
+    <ffmpeg>
+      <rtspStreamUrl>192.168.0.201:554</rtspStreamUrl>
+      <rtspUsername>admin</rtspUsername>
+      <rtspPsd>zlsd12345</rtspPsd>
+    </ffmpeg>
+  </monitor>
+  <monitor>
+    <jsmpeg>
+      <inPortNum>9093</inPortNum>
+      <outPortNum>9094</outPortNum>
+      <password>12345</password>
+    </jsmpeg>
+    <ffmpeg>
+      <rtspStreamUrl>192.168.0.202:554</rtspStreamUrl>
+      <rtspUsername>admin</rtspUsername>
+      <rtspPsd>admin12345</rtspPsd>
+    </ffmpeg>
+  </monitor>
+  <monitor>
+    <jsmpeg>
+      <inPortNum>9095</inPortNum>
+      <outPortNum>9096</outPortNum>
+      <password>12345</password>
+    </jsmpeg>
+    <ffmpeg>
+      <rtspStreamUrl>192.168.0.188:554/ch01/sub</rtspStreamUrl>
+      <rtspUsername>admin</rtspUsername>
+      <rtspPsd>123456</rtspPsd>
+    </ffmpeg>
+  </monitor>
+</Monitors>
